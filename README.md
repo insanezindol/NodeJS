@@ -110,7 +110,3 @@ node client.js
 ## 요구사항
 
 -   Node.js (버전 0.1.0 이상)
-
-## 라이선스
-
-MIT License
